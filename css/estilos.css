@@ -1,29 +1,107 @@
-.footer {
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
     background-color: #1b3a1f;
     color: #fff;
-    text-align: center;
-    padding: 2rem 1rem;
 }
 
-.footer__redes {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin: 1rem 0;
-}
-
-.footer__redes a {
+.logo-text {
+    font-size: 1.3rem;
+    font-weight: bold;
     color: #fff;
     text-decoration: none;
 }
 
-.footer__contacto p {
-    margin: 0.2rem 0;
-    font-size: 0.9rem;
+.header__nav {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
 }
 
-.footer__copy {
-    margin-top: 1rem;
-    font-size: 0.85rem;
-    color: #ccc;
+.header__nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
 }
+
+.header__btn-contacto {
+    background-color: #2e7d32;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+}
+
+.header__menu-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.header__menu-toggle span {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .header__nav {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px;
+        right: 0;
+        background-color: #1b3a1f;
+        width: 100%;
+        padding: 1rem;
+    }
+
+    .header__nav.activo {
+        display: flex;
+    }
+
+    .header__menu-toggle {
+        display: flex;
+.banner {
+    background-image: linear-gradient(rgba(0, 255, 179, 0.5), rgba(0,0,0,0.5)), url("img/fondo-bosque.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #250fcb;
+    text-align: center;
+    padding: 6rem 2rem;
+}
+
+.banner__titulo {
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+}
+
+.banner__descripcion {
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+    font-size: 1.1rem;
+}
+
+.banner__boton {
+    display: inline-block;
+    background-color: #2c2a83;
+    color: #fff;
+    padding: 0.8rem 1.8rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .banner__titulo {
+        font-size: 2rem;
+    }
+    .banner {
+        padding: 4rem 1.5rem;
+    }
+} 
