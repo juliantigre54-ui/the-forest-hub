@@ -1,0 +1,1 @@
+ocument.getElementById("anio").textContent = new Date().getFullYear();

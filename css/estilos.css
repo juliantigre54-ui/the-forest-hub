@@ -1,0 +1,29 @@
+.footer {
+    background-color: #1b3a1f;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.footer__redes {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.footer__redes a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer__contacto p {
+    margin: 0.2rem 0;
+    font-size: 0.9rem;
+}
+
+.footer__copy {
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    color: #ccc;
+}
