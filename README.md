@@ -1,4 +1,4 @@
-# 🌲 The Forest Hub
+#  The Forest Hub
 
 ### Innovamos hoy, desarrollamos el futuro.
 
@@ -8,7 +8,7 @@ Empresa dedicada al desarrollo de software, aplicaciones web y soluciones tecnol
 
 ---
 
-# 📖 Sobre Nosotros
+#  Sobre Nosotros
 
 **The Forest Hub** es una empresa de desarrollo de software especializada en la creación de soluciones tecnológicas innovadoras que ayudan a empresas y organizaciones a optimizar sus procesos mediante herramientas digitales seguras, escalables y de alto rendimiento.
 
@@ -16,21 +16,21 @@ Nuestro objetivo es transformar ideas en proyectos tecnológicos que generen val
 
 ---
 
-# 🚀 Nuestra Misión
+#  Nuestra Misión
 
 Desarrollar soluciones tecnológicas de alta calidad que permitan a empresas e instituciones automatizar procesos, optimizar recursos y alcanzar sus objetivos mediante el uso de tecnologías modernas.
 
 ---
 
-# 🌎 Nuestra Visión
+#  Nuestra Visión
 
 Ser una empresa líder en el desarrollo de software a nivel nacional e internacional, reconocida por la innovación, la calidad de nuestros productos y el compromiso con nuestros clientes.
 
 ---
 
-# 💻 Nuestros Servicios
+#  Nuestros Servicios
 
-## 🌐 Desarrollo Web
+##  Desarrollo Web
 
 Diseño y desarrollo de aplicaciones web modernas, rápidas y seguras.
 
@@ -43,7 +43,7 @@ Diseño y desarrollo de aplicaciones web modernas, rápidas y seguras.
 
 ---
 
-## 📱 Desarrollo de Aplicaciones
+##  Desarrollo de Aplicaciones
 
 Construcción de aplicaciones enfocadas en optimizar procesos empresariales.
 
@@ -55,7 +55,7 @@ Construcción de aplicaciones enfocadas en optimizar procesos empresariales.
 
 ---
 
-## 🗄 Gestión de Bases de Datos
+##  Gestión de Bases de Datos
 
 Diseñamos estructuras de bases de datos eficientes y seguras.
 
@@ -66,7 +66,7 @@ Diseñamos estructuras de bases de datos eficientes y seguras.
 
 ---
 
-## 🔒 Seguridad Informática
+##  Seguridad Informática
 
 Implementamos mecanismos para proteger la información de nuestros clientes.
 
@@ -78,7 +78,7 @@ Implementamos mecanismos para proteger la información de nuestros clientes.
 
 ---
 
-## ☁ Implementación y Despliegue
+##  Implementación y Despliegue
 
 Publicamos aplicaciones en servidores locales y en la nube.
 
@@ -90,7 +90,7 @@ Publicamos aplicaciones en servidores locales y en la nube.
 
 ---
 
-# 📂 Áreas de Desarrollo
+#  Áreas de Desarrollo
 
 - Sistemas de Gestión Empresarial
 - Sistemas Académicos
@@ -103,7 +103,7 @@ Publicamos aplicaciones en servidores locales y en la nube.
 
 ---
 
-# 🛠 Tecnologías
+#  Tecnologías
 
 ## Frontend
 
@@ -132,42 +132,42 @@ Publicamos aplicaciones en servidores locales y en la nube.
 
 ---
 
-# 📁 Proyectos Destacados
+#  Proyectos Destacados
 
-## 🐄 SIGG
+##  SIGG
 
 Sistema Integral de Gestión Ganadera para la administración de fincas.
 
 ---
 
-## 🏫 Portal Institucional
+##  Portal Institucional
 
 Sitio web institucional para entidades educativas.
 
 ---
 
-## 📦 Sistema de Inventario
+##  Sistema de Inventario
 
 Aplicación web para el control de inventarios y activos empresariales.
 
 ---
 
-## 📊 Dashboard Empresarial
+##  Dashboard Empresarial
 
 Panel administrativo para el análisis de indicadores y generación de reportes.
 
 ---
 
 
-# 📈 Estado
+#  Estado
 
-🟢 Empresa en crecimiento.
+ Empresa en crecimiento.
 
 Actualmente desarrollamos soluciones web enfocadas en la transformación digital de empresas e instituciones.
 
 ---
 
-# 👨‍💻 Equipo
+#  Equipo
 
 **The Forest Hub**
 
@@ -175,17 +175,17 @@ Equipo de desarrolladores apasionados por la tecnología, la innovación y la cr
 
 ---
 
-# 📬 Contacto
+#  Contacto
 
-📧 contacto@theforesthub.com
+ contacto@theforesthub.com
 
-🌐 www.theforesthub.com
+ www.theforesthub.com
 
-📍 Colombia
+ Colombia
 
 ---
 
-# 📄 Licencia
+#  Licencia
 
 © 2026 **The Forest Hub**
 
